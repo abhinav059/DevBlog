@@ -1,9 +1,6 @@
-
+# 👨‍💻 Welcome to My Blog!
 
 # 🚀 From Code to Cloud: My DevOps & CI/CD Learning Journey
----
-
-# 👨‍💻 Welcome to My Blog!
 
 > _“You write code. But how does that code reach millions? Who ensures it runs reliably, securely, and consistently — every single day?”_
 
