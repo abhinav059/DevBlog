@@ -1,6 +1,6 @@
 
-# From Code to Cloud: My DevOps & CI/CD Learning Journey
 
+# From Code to Cloud: My DevOps & CI/CD Learning Journey
 > _“You write code. But how does that code reach millions? Who ensures it runs reliably, securely, and consistently — every single day?”_
 
 Hello! I’m **Abhinav Kumar**, and in this blog, I’ll walk you through my journey into the world of **DevOps** and **CI/CD**. Whether you're a student like I was, a curious developer, or someone preparing for a DevOps role, this guide is designed to share practical insights, real experiences, and beginner-friendly explanations.
