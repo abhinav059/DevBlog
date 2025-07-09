@@ -1,6 +1,6 @@
 
----
-title: 🚀 From Code to Cloud: My DevOps & CI/CD Learning Journey
+
+# 🚀 From Code to Cloud: My DevOps & CI/CD Learning Journey
 ---
 
 # 👨‍💻 Welcome to My Blog!
